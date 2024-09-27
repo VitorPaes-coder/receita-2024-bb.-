@@ -1,4 +1,4 @@
-# Receita de Bolo de Ceneura
+# Receita de Bolo de Cenoura 
 
 ![](./img/preview-receita.png)
 
